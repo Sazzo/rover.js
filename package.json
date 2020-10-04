@@ -1,0 +1,11 @@
+{
+  "name": "rover.js",
+  "version": "1.0.0",
+  "description": "Just a simple verify.eryn.io API wrapper for Javascript.",
+  "main": "index.js",
+  "author": "FelipeSazz <felipe@sazz.fail>",
+  "license": "MIT",
+  "dependencies": {
+    "phin": "^3.5.0"
+  }
+}
